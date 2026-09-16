@@ -1,0 +1,22 @@
+* {margin: 0;padding: 0;box-sizing: border-box; font-family: Arial, sans-serif; }
+body {background: #f2f4f8; color: #222;}
+
+header {
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 20px 40px;
+background: #eef2f7;
+}
+.logo{font-weight: bold;color:#2a5bd7 ;}
+nav a{margin-left: 20px;text-decoration: none;color: #555; font-size: 14px;}
+nav a:hover { color:#2a5bd7}
+.hero {      background: linear-gradient(90deg, #c9e4rff 0% );}
+
+
+
+
+
+
+
+
